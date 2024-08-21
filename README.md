@@ -11,11 +11,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Becoming the Ultimate SWE: Week 2 Roundup](https://talha-akhoon.medium.com/becoming-the-ultimate-swe-week-2-roundup-fd4ad4568cf0?source=rss-6ed3d0233e13------2)
 - [Leveraging LLMs: A Guide to Supercharging Your Applications with AI &lpar;Part 1 of 3&rpar;](https://talha-akhoon.medium.com/leveraging-llms-a-guide-to-supercharging-your-applications-with-ai-part-1-of-3-bf46165f12cf?source=rss-6ed3d0233e13------2)
 - [Becoming the Ultimate SWE: Week 1 Roundup](https://talha-akhoon.medium.com/becoming-the-ultimate-swe-week-1-roundup-c1a003883113?source=rss-6ed3d0233e13------2)
 - [Journey to Becoming the Ultimate Software Engineer](https://talha-akhoon.medium.com/journey-to-becoming-the-ultimate-software-engineer-0c5a3739888a?source=rss-6ed3d0233e13------2)
 - [A Tough Decision: Development or Documentation?](https://talha-akhoon.medium.com/when-circumstances-turn-your-team-lead-into-living-documentation-9b31bf911afc?source=rss-6ed3d0233e13------2)
-- [Navigating the Database Decision: Relational vs. NoSQL](https://talha-akhoon.medium.com/navigating-the-database-decision-relational-vs-nosql-45d21bd7bc0d?source=rss-6ed3d0233e13------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
