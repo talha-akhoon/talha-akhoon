@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://medium.talhaakhoon.dev](https://medium.talhaakhoon.dev)
 
-- 📄 Know about my experiences [https://talhaakhoon.dev](https://talhaakhoon.dev)
+- 📄 Check out what I've been working on [https://talhaakhoon.dev](https://talhaakhoon.dev)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
