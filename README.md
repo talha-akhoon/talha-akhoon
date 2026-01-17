@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=talha-akhoon&label=Profile%20views&color=0e75b6&style=flat" alt="talha-akhoon" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=talha-akhoon" alt="talha-akhoon" /></a> </p>
-
 - 📝 I regularly write articles on [https://medium.talhaakhoon.dev](https://medium.talhaakhoon.dev)
 
 - 📄 Check out what I've been working on [https://talhaakhoon.dev](https://talhaakhoon.dev)
