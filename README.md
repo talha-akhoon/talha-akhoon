@@ -5,8 +5,6 @@
 
 - 📝 I regularly write articles on [https://medium.talhaakhoon.dev](https://medium.talhaakhoon.dev)
 
-- 📄 Check out what I've been working on [https://talhaakhoon.dev](https://talhaakhoon.dev)
-
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [YC Startup School Europe 2024: I Spent a Day With Paul Graham &amp; 5 YC Founders — Here’s What They…](https://talha-akhoon.medium.com/what-paul-graham-and-europes-top-founders-really-said-at-yc-startup-school-europe-2024-6157e34ca35d?source=rss-6ed3d0233e13------2)
