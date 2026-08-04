@@ -1,25 +1,53 @@
-<h1 align="center">Hi 👋, I'm Talha Akhoon</h1>
-<h3 align="center">Software Engineer & Tech Entrepreneur.</h3>
+<h1 align="center">Hi, I'm Talha Akhoon 👋</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=talha-akhoon&label=Profile%20views&color=0e75b6&style=flat" alt="talha-akhoon" /> </p>
-
-- 📝 I regularly write articles on [https://medium.talhaakhoon.dev](https://medium.talhaakhoon.dev)
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-- [YC Startup School Europe 2024: I Spent a Day With Paul Graham &amp; 5 YC Founders — Here’s What They…](https://talha-akhoon.medium.com/what-paul-graham-and-europes-top-founders-really-said-at-yc-startup-school-europe-2024-6157e34ca35d?source=rss-6ed3d0233e13------2)
-- [Becoming the Ultimate SWE: Week 3 Roundup](https://talha-akhoon.medium.com/becoming-the-ultimate-swe-week-3-roundup-797f6f427265?source=rss-6ed3d0233e13------2)
-- [Becoming the Ultimate SWE: Week 2 Roundup](https://talha-akhoon.medium.com/becoming-the-ultimate-swe-week-2-roundup-fd4ad4568cf0?source=rss-6ed3d0233e13------2)
-- [Leveraging LLMs: A Guide to Supercharging Your Applications with AI &lpar;Part 1 of 3&rpar;](https://talha-akhoon.medium.com/leveraging-llms-a-guide-to-supercharging-your-applications-with-ai-part-1-of-3-bf46165f12cf?source=rss-6ed3d0233e13------2)
-- [Becoming the Ultimate SWE: Week 1 Roundup](https://talha-akhoon.medium.com/becoming-the-ultimate-swe-week-1-roundup-c1a003883113?source=rss-6ed3d0233e13------2)
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/talhaakhoon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="talhaakhoon" height="30" width="40" /></a>
-<a href="https://medium.com/@talha-akhoon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@talha-akhoon" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/talha-akhoon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="talha-akhoon" height="30" width="40" /></a>
+<p align="center">
+  <strong>Software engineer building backend platforms, AI systems and developer tools.</strong>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://talhaakhoon.dev">Website</a> •
+  <a href="https://www.linkedin.com/in/talhaakhoon">LinkedIn</a> •
+  <a href="https://medium.talhaakhoon.dev">Writing</a> •
+  <a href="https://www.leetcode.com/talha-akhoon">LeetCode</a>
+</p>
+
+## About me
+
+I build production software across backend engineering and applied AI, with a focus on systems that are reliable, observable and useful in the real world.
+
+- Built AI-powered research workflows across **900,000+ profiles and documents**
+- Designed LLM infrastructure covering authentication, model access, usage attribution and cost controls
+- Shipped GraphQL and REST APIs, event-driven services, search systems and asynchronous workflows
+- Worked with AI evaluation, tracing, retrieval, grounding and source citation
+- Interested in agentic systems, distributed systems, developer tooling and robotics
+
+## What I work with
+
+**Languages**  
+Python · TypeScript · JavaScript · Java · PHP · Go
+
+**Backend and data**  
+Node.js · FastAPI · Spring Boot · Laravel · Symfony · GraphQL · PostgreSQL · MySQL · MongoDB · Redis · Elasticsearch
+
+**AI engineering**  
+LangChain · LangSmith · RAG · Agentic workflows · LLM evaluation · Observability
+
+**Infrastructure**  
+AWS · Docker · Terraform · CI/CD · Queues · Event-driven architecture
+
+## Current interests
+
+- Building production-style AI assistants with measurable quality
+- Evaluating retrieval, grounding and citation accuracy
+- Designing reliable concurrent and distributed workflows
+- Prototyping hardware and robotics projects
+
+## Latest writing
+
+<!-- BLOG-POST-LIST:START -->
+- [YC Startup School Europe 2024: I Spent a Day With Paul Graham &amp; 5 YC Founders — Here’s What They Said](https://talha-akhoon.medium.com/what-paul-graham-and-europes-top-founders-really-said-at-yc-startup-school-europe-2024-6157e34ca35d)
+- [Becoming the Ultimate SWE: Week 3 Roundup](https://talha-akhoon.medium.com/becoming-the-ultimate-swe-week-3-roundup-797f6f427265)
+- [Becoming the Ultimate SWE: Week 2 Roundup](https://talha-akhoon.medium.com/becoming-the-ultimate-swe-week-2-roundup-fd4ad4568cf0)
+- [Leveraging LLMs: A Guide to Supercharging Your Applications with AI](https://talha-akhoon.medium.com/leveraging-llms-a-guide-to-supercharging-your-applications-with-ai-part-1-of-3-bf46165f12cf)
+- [Becoming the Ultimate SWE: Week 1 Roundup](https://talha-akhoon.medium.com/becoming-the-ultimate-swe-week-1-roundup-c1a003883113)
+<!-- BLOG-POST-LIST:END -->
