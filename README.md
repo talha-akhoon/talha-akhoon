@@ -5,10 +5,8 @@
 </p>
 
 <p align="center">
-  <a href="https://talhaakhoon.dev">Website</a> •
   <a href="https://www.linkedin.com/in/talhaakhoon">LinkedIn</a> •
   <a href="https://medium.talhaakhoon.dev">Writing</a> •
-  <a href="https://www.leetcode.com/talha-akhoon">LeetCode</a>
 </p>
 
 ## About me
