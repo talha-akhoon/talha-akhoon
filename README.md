@@ -43,9 +43,9 @@ AWS · Docker · Terraform · CI/CD · Queues · Event-driven architecture
 ## Latest writing
 
 <!-- BLOG-POST-LIST:START -->
-- [YC Startup School Europe 2024: I Spent a Day With Paul Graham &amp; 5 YC Founders — Here’s What They Said](https://talha-akhoon.medium.com/what-paul-graham-and-europes-top-founders-really-said-at-yc-startup-school-europe-2024-6157e34ca35d)
-- [Becoming the Ultimate SWE: Week 3 Roundup](https://talha-akhoon.medium.com/becoming-the-ultimate-swe-week-3-roundup-797f6f427265)
-- [Becoming the Ultimate SWE: Week 2 Roundup](https://talha-akhoon.medium.com/becoming-the-ultimate-swe-week-2-roundup-fd4ad4568cf0)
-- [Leveraging LLMs: A Guide to Supercharging Your Applications with AI](https://talha-akhoon.medium.com/leveraging-llms-a-guide-to-supercharging-your-applications-with-ai-part-1-of-3-bf46165f12cf)
-- [Becoming the Ultimate SWE: Week 1 Roundup](https://talha-akhoon.medium.com/becoming-the-ultimate-swe-week-1-roundup-c1a003883113)
+- [YC Startup School Europe 2024: I Spent a Day With Paul Graham &amp; 5 YC Founders — Here’s What They…](https://talha-akhoon.medium.com/what-paul-graham-and-europes-top-founders-really-said-at-yc-startup-school-europe-2024-6157e34ca35d?source=rss-6ed3d0233e13------2)
+- [Becoming the Ultimate SWE: Week 3 Roundup](https://talha-akhoon.medium.com/becoming-the-ultimate-swe-week-3-roundup-797f6f427265?source=rss-6ed3d0233e13------2)
+- [Becoming the Ultimate SWE: Week 2 Roundup](https://talha-akhoon.medium.com/becoming-the-ultimate-swe-week-2-roundup-fd4ad4568cf0?source=rss-6ed3d0233e13------2)
+- [Leveraging LLMs: A Guide to Supercharging Your Applications with AI &lpar;Part 1 of 3&rpar;](https://talha-akhoon.medium.com/leveraging-llms-a-guide-to-supercharging-your-applications-with-ai-part-1-of-3-bf46165f12cf?source=rss-6ed3d0233e13------2)
+- [Becoming the Ultimate SWE: Week 1 Roundup](https://talha-akhoon.medium.com/becoming-the-ultimate-swe-week-1-roundup-c1a003883113?source=rss-6ed3d0233e13------2)
 <!-- BLOG-POST-LIST:END -->
