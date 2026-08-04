@@ -25,7 +25,7 @@ I build production software across backend engineering and applied AI, with a fo
 Python · TypeScript · JavaScript · Java · PHP · Go
 
 **Backend and data**  
-Node.js · FastAPI · Spring Boot · Laravel · Symfony · GraphQL · PostgreSQL · MySQL · MongoDB · Redis · Elasticsearch
+Node.js · Nest.js · FastAPI · Spring Boot · Laravel · Symfony · GraphQL · PostgreSQL · MySQL · MongoDB · Redis · Elasticsearch
 
 **AI engineering**  
 LangChain · LangSmith · RAG · Agentic workflows · LLM evaluation · Observability
