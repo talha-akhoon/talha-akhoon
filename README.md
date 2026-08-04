@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/talhaakhoon">LinkedIn</a> •
-  <a href="https://medium.talhaakhoon.dev">Writing</a> •
+  <a href="https://medium.talhaakhoon.dev">Writing</a>
 </p>
 
 ## About me
